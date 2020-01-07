@@ -1,2 +1,2 @@
-# AI
+# Sudoku solver
 Sudoku solver
