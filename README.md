@@ -1,6 +1,6 @@
 
 
- **(a) Introduction** <br />
+ # **(a) Introduction** <br />
 Sudoku is the widely known Japanese game which is basically presented by a matrix of 9 by 9 squares
 where each row, column and block of 3 by 3 shouldn't have repeated numbers. Our project focuses on
 solving this game by CSP using backtracking technique and genetic algorithm. The backtracking
